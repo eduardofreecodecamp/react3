@@ -8,6 +8,7 @@ import Laptops from './page/Laptops'
 import Tienda from './page/Tienda'
 import Contacto from './page/Contacto'
 import Todos from './page/Todos'
+
 import { useState } from 'react'
 
 function App() {
