@@ -7,7 +7,7 @@ const Laptops = ({carrito, setCarrito}) => {
     <Mlaptops carrito={carrito} setCarrito={setCarrito}/>
     </>
    
-  )
+  ) 
 }
 
 export default Laptops

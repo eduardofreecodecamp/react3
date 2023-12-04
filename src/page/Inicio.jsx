@@ -5,4 +5,4 @@ const Inicio = ({carrito, setCarrito}) => {
   )
 }
 
-export default Inicio
+export default Inicio 
